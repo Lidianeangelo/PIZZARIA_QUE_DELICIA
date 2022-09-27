@@ -28,6 +28,7 @@ Descrição da Atividade:
 
 📚Salve todas as queries para cada um dos requisitos do exercício em um único script (arquivo .SQL) e coloque no seu Github pessoal, no repositório que você criou sobre Banco de dados.
 
+![QUERO ME TORNAR UMA DEV](https://user-images.githubusercontent.com/69389376/192518134-c3de5f5c-6a32-4654-81f1-4a126d93eacf.png)
 
 
 
